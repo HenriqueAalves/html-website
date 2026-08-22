@@ -1,0 +1,13 @@
+Context: I provided the AI with the assignment requeriments before
+starting the development process.
+
+Prompt 1:
+
+Okay, I need you to create three semantic HTML pages for a dealership called HenriCar.
+The home page should feature three listed cars—including their prices, mileage, and model years—along with a list of the shop's services: 
+mechanical repairs, vehicle buying and selling, and trade-ins (using a used vehicle toward the purchase of a new one). 
+The "About" page should provide a brief history of the dealership,the history is the HenriCar was born as a small local store and a quick overview of the customer experience at HenriCar. 
+For the contact page, I need fields for first and last name, email, and a text area for a longer message, plus a "send" button; 
+this page will serve as the primary contact point and should also display the address and contact phone number. 
+All three pages must include navigation between them and utilize semantic HTML where appropriate.
+
