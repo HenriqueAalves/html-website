@@ -1,0 +1,59 @@
+Entry 1
+
+Task: Plan the website.
+
+Decision: I decided to create a fictional car dealership website 
+with three pages: home, about and contact.
+
+The plan: 
+The home page will introduce the dealership, its vehicles and main services.
+The about page will present the dealership's history, values and services.
+The contact page will provide contact information and a simple contact form.
+
+Entry 2
+
+Task: structure the available vehicles section.
+
+Decision:
+I decided to create three <article> elements inside the vehicles section,
+with each article representing one available car. Each vehicle will have
+its own information, such as model, price, year and mileage.
+
+I chose <article> because each vehicle can be understood as an independent
+piece of content inside the section.
+
+Entry 3
+
+Task: structure the available services section.
+
+Decision: 
+I decided to use an unordered list (<ul>) to display the three 
+services offered by the dealership. I chose an unordered list because
+the services do not have a specific order of priority. 
+
+Entry 4
+
+Task: Structure the about page and add consistent footer.
+
+Decision: 
+A simple page featuring a summary of the store's history and an overview
+of the shopping experience. I also decided to include a footer on all three
+pages with a link to the contact page.
+
+Entry 5
+
+Task: I needed to create the contact page.
+
+Problem + solution: 
+It was my first time using a form and structuring a contact page, so I spent
+a good amount of time going through the HTML Forms documentation
+provided for the assignment, and it was very helpful.
+
+Entry 6 
+
+Task: Create the contact structure.
+
+Decision: 
+Stick to what works- keeping it simple. Since this was my first time 
+working with an HTML form, I opted for a simple yet comprehensive field that meets
+the user's needs withing the scope of my project.
